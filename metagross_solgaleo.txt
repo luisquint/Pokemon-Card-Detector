@@ -1,0 +1,28 @@
+Pokemon - 19
+4 Beldum GRI 83
+2 Metang GRI 84
+4 Metagross-GX GRI 85
+1 Metagross CES 95
+2 Cosmog SUM 64
+2 Solgaleo-GX SUM 89
+2 Tapu Lele-GX GRI 60
+1 Alolan Vulpix GRI 21
+1 Dhelmise GRI 59
+
+Trainer - 33
+4 Cynthia UPR 119
+3 Guzma BUS 115
+2 Lillie SUM 122
+2 Steven's Resolve CES 145
+1 Judge FLI 108
+1 Hala GRI 126
+4 Ultra Ball SUM 135
+4 Nest Ball SUM 123
+4 Rare Candy SUM 129
+4 Max Potion GRI 128
+2 Rescue Stretcher GRI 130
+2 Choice Band GRI 121
+
+Energy - 6
+7 Metal Energy 8
+1 Psychic Energy 5
